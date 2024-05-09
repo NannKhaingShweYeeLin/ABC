@@ -3,15 +3,16 @@
 .navbar-brand {
     font-family: 'Pacifico', cursive;
     color:#0177b5;
+    height: max-content;
 }
 .navbar-inverse{
-  background-color: rgb(131, 13, 209);
+  background-color: rgb(209, 13, 88);
 }
 
   /*Jumbrotron*/
 #jj{
-background-color:  rgb(131, 13, 209);
-color:gray;
+background-color:   rgb(209, 13, 88);
+color:rgb(246, 226, 226);
 }
  
 /*modal pic*/
@@ -23,14 +24,14 @@ color:gray;
     padding-bottom: 20px;
     border-radius: 20px;
     border-style: groove;
-    border-color:  rgb(131, 13, 209);
-    box-shadow: 5px 5px 4px rgb(131, 13, 209);
+    border-color:   rgb(209, 13, 88);
+    box-shadow: 5px 5px 4px  rgb(209, 13, 88);
 }
 
 
 #jum{
-  background-color:  rgb(131, 13, 209);
-  color: gray;
+  background-color:   rgb(209, 13, 88);
+  color: rgb(228, 123, 123);
 }
 
 /*question*/
@@ -67,7 +68,7 @@ float: right;
     padding-bottom: 20px;
     border-radius: 20px;
     border-style: groove;
-    border-color: rgb(131, 13, 209);
+    border-color:  rgb(209, 13, 88);
    
     
 }
@@ -132,7 +133,7 @@ float: right;
 
  .line{
   height: 6px;
-  background-color:   rgb(131, 13, 209);
+  background-color:    rgb(209, 13, 88);
   
   width: 100px;
   margin: 8px auto;
@@ -155,7 +156,7 @@ float: right;
     flex-direction: column;
     align-items: flex-start;
     
-    color:   rgb(131, 13, 209);
+    color:    rgb(209, 13, 88);
     ;
  }
  #llpi{
@@ -205,7 +206,7 @@ float: right;
     flex-flow: row wrap;
     padding: 30px 30px 20px 30px;
     color: #2f2f2f;
-    background-color: rgb(131, 13, 209);
+    background-color:  rgb(209, 13, 88);
     border-top: 1px solid #e5e5e5;
   }
   
@@ -238,7 +239,7 @@ float: right;
   
   .footer address {
     font-style: normal;
-    color: #999;
+    color: #f3ebeb;
   }
   
   .footer__btn {
@@ -331,7 +332,7 @@ float: right;
 
 /*footer logo*/
 #fft{
-  background-color: rgb(131, 13, 209); 
+  background-color:  rgb(209, 13, 88); 
 }
 
 
@@ -379,7 +380,7 @@ body {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color:rgb(131, 13, 209);
+    background-color: rgb(209, 13, 88);
     background-clip: border-box;
 
 }
@@ -399,7 +400,7 @@ body {
 .card .card-description {
     margin-bottom: .875rem;
     font-weight: 400;
-    color:rgb(131, 13, 209);
+    color: rgb(209, 13, 88);
 }
 .btn.btn-social-icon{
    width: 50px;
@@ -525,12 +526,12 @@ body {
   
   border-radius: 20px;
   border-style: solid;
-  border-color:  rgb(131, 13, 209);
+  border-color:   rgb(209, 13, 88);
 }
 
 #hj{
   font-family:'Pacifico', cursive;
-  color: rgb(131, 13, 209);
+  color:  rgb(209, 13, 88);
 }
 
 /*form group*/
